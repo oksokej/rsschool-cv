@@ -1,0 +1,27 @@
+body {
+    max-width: 1024px;
+    font-size: 25px;
+    text-align: left;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.Photo {
+    border-radius: 60%;
+    float: left;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.text-indent {
+    text-indent: 1.5em;
+}
+
+.skills {
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+    font-size: 10px;
+}
